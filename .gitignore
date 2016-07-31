@@ -1,0 +1,6 @@
+build/
+*.built_by
+*.catkin
+*.catkin_workspace
+*.rosinstall
+_setup_util.py
